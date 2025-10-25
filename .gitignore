@@ -1,0 +1,42 @@
+# ---- Python artifacts ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# ---- Virtual environment ----
+.venv/
+venv/
+ENV/
+env/
+.venv*/
+venv*/
+
+# ---- Build / packaging ----
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# ---- Jupyter / Notebooks ----
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# ---- IDEs / Editors ----
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs and temp ----
+*.log
+*.tmp
+*.swp
+*.bak
